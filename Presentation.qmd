@@ -1,0 +1,20 @@
+---
+title: "Lab 6: Quarto Presentation"
+author: "Francisco_Gorrostieta"
+format: revealjs
+editor: visual
+bibliography: references.bib
+---
+
+## Some Important Literature
+
+The Fundamental Theorem of Calculus is appropriately named because it establishes a
+con­nection between the two branches of calculus: differential calculus and integral calcu-
+lus. Differential calculus arose from the tangent problem, whereas integral calculus arose
+from a seemingly unrelated problem, the area problem. Newton’s mentor at Cambridge,
+Isaac Barrow (1630–1677)[@stewart2016biocalculus]
+
+
+## example
+
+$$\int_0^{\pi/2} \frac{\sin(t) \cos(t)}{\sqrt{\sin^2(t) + 25}}\ , dt$$
